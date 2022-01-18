@@ -1,6 +1,6 @@
 # Welcome to HeemsMC Mod
 
-Setup using JDK 16 and MC Version 1.8.1
+Setup using JDK 16 and MC Version 1.18.1
 
 Please download JDK 16 from https://adoptopenjdk.net/
 
